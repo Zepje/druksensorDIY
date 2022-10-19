@@ -1,0 +1,26 @@
+body {
+  background-color: darkgray;
+}
+
+#funmode{
+  background-image: url("./funmode/rainbow.gif");
+  color: white;
+}
+
+#videos {
+  background-color: transparent;
+  float: left;
+  position: relative;
+  width: 50%;
+  height: 100%;
+}
+
+#video {
+  width: 100%;
+  height: 100%;
+}
+
+#text {
+  background-color: transparent;
+  color: white;
+}
